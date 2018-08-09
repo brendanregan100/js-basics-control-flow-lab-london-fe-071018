@@ -1,5 +1,7 @@
 // Write your code in this file!
-function scuberGreetingForFeet(300);
+let distance = 400
+
+function scuberGreetingForFeet()
 
 if (distance <= 400){
   console.log("This one is on me!");
