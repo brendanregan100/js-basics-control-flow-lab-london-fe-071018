@@ -9,10 +9,6 @@ function scuberGreetingForFeet(distance){
   return ("I will gladly take your thirty bucks.");
 }
 
-function ternaryCheckCity(Location){
-  Location = "New York" ? "Ok, sounds good." : "No go.";
-}
-
-function switchOnCharmFromTip(){
-  
+function ternaryCheckCity(location){
+  return location === "New York" ? "Ok, sounds good." : "No go.";
 }
