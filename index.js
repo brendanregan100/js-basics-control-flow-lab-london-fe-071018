@@ -15,7 +15,7 @@ function ternaryCheckCity(location){
 
 switchOnCharmFromTip(value){
     case "generous":
-      Value "Thank you so much."
+      Value "Thank you so much.";
         break;
     case "moderate":
       Value "Thank you."
