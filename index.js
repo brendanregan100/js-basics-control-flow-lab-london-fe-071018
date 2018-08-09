@@ -13,4 +13,6 @@ function ternaryCheckCity(Location){
   Location = "New York" ? "Ok, sounds good." : "No go.";
 }
 
-function 
+function switchOnCharmFromTip(){
+  
+}
