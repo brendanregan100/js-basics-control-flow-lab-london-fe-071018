@@ -9,8 +9,6 @@ function scuberGreetingForFeet(distance){
   return ("I will gladly take your thirty bucks.");
 }
 
-function ternaryCheckCity(){
-  "New York" ? "Ok, sounds good."
+function ternaryCheckCity(Location){
+  Location = "New York" ? "Ok, sounds good." : "No go.";
 }
-
-condition ? expression1 : expression2;
